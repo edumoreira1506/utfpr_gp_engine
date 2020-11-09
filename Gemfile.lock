@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    utfpr_gp_engine (0.2.0)
+    utfpr_gp_engine (0.3.0)
       rails (~> 5.0.7, >= 5.0.7.2)
 
 GEM
