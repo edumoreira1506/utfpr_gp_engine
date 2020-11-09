@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    utfpr_gp_engine (0.1.0)
+    utfpr_gp_engine (0.2.0)
       rails (~> 5.0.7, >= 5.0.7.2)
 
 GEM
@@ -99,7 +99,7 @@ GEM
       actionpack (>= 4.0)
       activesupport (>= 4.0)
       sprockets (>= 3.0.0)
-    sqlite3 (1.4.2)
+    sqlite3 (1.3.13)
     thor (1.0.1)
     thread_safe (0.3.6)
     tzinfo (1.2.8)
@@ -112,7 +112,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  sqlite3
+  sqlite3 (~> 1.3.11)
   utfpr_gp_engine!
 
 BUNDLED WITH
